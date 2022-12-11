@@ -1,9 +1,8 @@
 # Bengaluru-House-price-prediction
 The objective of the project is to create a Machine Learning Model .We are doing a supervised learning and our aim is to do predictive analysis to predict housing price
 In this project, we will implement a Bangalore House Price Prediction model using a Machine Learning algorithm. This model predicts the price of Bangalore's house with the help of a few parameters like availability, size, total square feet, bath, location, etc. 
-During this Bangaluru House Price prediction using Machine Learning tutorial you will learn several things like:
 
-Some critical stages of the project:
+# Steps of project :
 
 #### Wrangling:
 
