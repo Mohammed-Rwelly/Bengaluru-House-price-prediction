@@ -30,6 +30,7 @@ Shuffle split with 10 folds with cross_val_score was used to check the performan
 
 #### GridSearchCV: 
 
-GridSearchCV was used for choosing the best algorithm amongst lasso, Decision Tress regressor and linear regressor. It is also used for Hyper parameter tunning for the best algorithm.
+GridSearchCV was used for choosing the best algorithm amongst lasso, Decision Tress regressor and linear regressor. It is also used for Hyper parameter tunning for the best algorithm, and ﬁnally gone with Random Forest Regressor with mean absolute error is 2.9.
 
-Major Python Libraries use: sklearn, pandas, numpy , matplotlib , cross_val_score, GridSearchCV
+#### Major Python Libraries use:
+sklearn, pandas, numpy , matplotlib , cross_val_score, GridSearchCV
